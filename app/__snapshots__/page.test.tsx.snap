@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Page has expected snapshot 1`] = `
+<main
+  className="MuiBox-root mui-0"
+>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthMd mui-xdmu94-MuiContainer-root"
+  >
+    <h1
+      className="MuiTypography-root MuiTypography-h1 MuiTypography-gutterBottom mui-pdit6e-MuiTypography-root"
+    >
+      Example Tabs
+    </h1>
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-gutterBottom mui-1kcqg8f-MuiTypography-root"
+    >
+      Example originally taken from
+       
+      <a
+        className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways mui-1xylxj1-MuiTypography-root-MuiLink-root"
+        href="https://mui.com/material-ui/react-tabs/#basics"
+        onBlur={[Function]}
+        onFocus={[Function]}
+      >
+        MUI Documentation
+      </a>
+      .
+    </h6>
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthSm mui-cuefkz-MuiContainer-root"
+    >
+      <div
+        className="MuiBox-root mui-wml2qq"
+      >
+        <div
+          className="MuiBox-root mui-1gsv261"
+        >
+          <div
+            className="MuiTabs-root mui-tkn350-MuiTabs-root"
+          >
+            <div
+              className="MuiButtonBase-root MuiTabScrollButton-root MuiTabScrollButton-horizontal Mui-disabled MuiTabs-scrollButtons mui-145v6pe-MuiButtonBase-root-MuiTabScrollButton-root"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role={null}
+              tabIndex={null}
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall mui-ptiqhd-MuiSvgIcon-root"
+                data-testid="KeyboardArrowLeftIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z"
+                />
+              </svg>
+            </div>
+            <div
+              className="MuiTabs-scrollableX MuiTabs-hideScrollbar mui-oqr85h"
+              style={
+                {
+                  "height": 99,
+                  "overflow": "scroll",
+                  "position": "absolute",
+                  "top": -9999,
+                  "width": 99,
+                }
+              }
+            />
+            <div
+              className="MuiTabs-scroller MuiTabs-hideScrollbar MuiTabs-scrollableX mui-69z67c-MuiTabs-scroller"
+              style={
+                {
+                  "marginBottom": -0,
+                  "overflow": "hidden",
+                }
+              }
+            >
+              <div
+                aria-orientation={null}
+                className="MuiTabs-flexContainer mui-heg063-MuiTabs-flexContainer"
+                onKeyDown={[Function]}
+                role="tablist"
+              >
+                <button
+                  aria-controls="dynamic-tabpanel-0"
+                  aria-selected={true}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-0"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={0}
+                  type="button"
+                >
+                  Item One
+                  <span
+                    className="MuiTabs-indicator mui-1aquho2-MuiTabs-indicator"
+                    style={{}}
+                  />
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-1"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-1"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Two
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-2"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-2"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Three
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-3"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-3"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Four
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-4"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-4"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Five
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-5"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-5"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Six
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-6"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-6"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Seven
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-7"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-7"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Eight
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-8"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-8"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Nine
+                </button>
+                <button
+                  aria-controls="dynamic-tabpanel-9"
+                  aria-selected={false}
+                  className="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary mui-175khc2-MuiButtonBase-root-MuiTab-root"
+                  disabled={false}
+                  id="dynamic-tab-9"
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  role="tab"
+                  tabIndex={-1}
+                  type="button"
+                >
+                  Item Ten
+                </button>
+              </div>
+            </div>
+            <div
+              className="MuiButtonBase-root MuiTabScrollButton-root MuiTabScrollButton-horizontal Mui-disabled MuiTabs-scrollButtons mui-145v6pe-MuiButtonBase-root-MuiTabScrollButton-root"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role={null}
+              tabIndex={null}
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall mui-ptiqhd-MuiSvgIcon-root"
+                data-testid="KeyboardArrowRightIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.59 16.34l4.58-4.59-4.58-4.59L10 5.75l6 6-6 6z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-labelledby="dynamic-tab-0"
+          className="MuiBox-root mui-0"
+          hidden={false}
+          id="dynamic-tabpanel-0"
+          role="tabpanel"
+        >
+          <div
+            className="MuiBox-root mui-19kzrtu"
+          >
+            <p>
+              Item One
+            </p>
+          </div>
+        </div>
+        <div
+          aria-labelledby="dynamic-tab-1"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-1"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-2"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-2"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-3"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-3"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-4"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-4"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-5"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-5"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-6"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-6"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-7"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-7"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-8"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-8"
+          role="tabpanel"
+        />
+        <div
+          aria-labelledby="dynamic-tab-9"
+          className="MuiBox-root mui-0"
+          hidden={true}
+          id="dynamic-tabpanel-9"
+          role="tabpanel"
+        />
+      </div>
+    </div>
+  </div>
+</main>
+`;
